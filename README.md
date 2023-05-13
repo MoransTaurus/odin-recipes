@@ -1,3 +1,3 @@
 # odin-recipes
 
-Is this thing on?
+A homework HTML website for displaying funny recipes 
